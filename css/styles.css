@@ -1,0 +1,126 @@
+.map{
+  margin: 90px 290px 90px 90px;
+
+}
+.topbar h1 {
+  text-align: center;
+}
+
+.masthead {
+  background-color: blue;
+}
+
+.africa {
+  width: 100px;
+  border: 2px solid red; /* for testing */
+  position: absolute;
+  left: 1000px;
+  top: 580px
+}
+
+.chimp {
+  width: 100%;
+}
+
+.extra-box {
+  border: 2px solid red;
+  background: orange;
+}
+.antartica {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 1000px;
+  top: 850px;
+}
+.antartica img {
+  width: 100%;
+}
+.antartica .extra-box {
+  display: inline-block;
+}
+.asia {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 1260px;
+  top: 260px;
+}
+.asia img {
+  width: 100%;
+}
+.central-america {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 380px;
+  top: 410px;
+}
+.central-america img {
+  width: 100%;
+
+}
+.australia {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 1500px;
+  top: 680px;
+}
+.australia img {
+  width: 100%;
+}
+.europe {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 900px;
+  top: 180px;
+}
+.europe img {
+  width: 100%;
+}
+.hawaii {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 300px;
+  top: 650px;
+}
+.hawaii img {
+  width: 100%;
+}
+.middle-east {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 999px;
+  top: 400px;
+}
+.middle-east img {
+  width: 100%;
+}
+.south-america {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 600px;
+  top: 600px;
+}
+.south-america img {
+  width: 100%;
+}
+.north-america {
+  width: 100px;
+  border: 2px solid red;
+  position: absolute;
+  left: 500px;
+  top: 300px;
+}
+.north-america img {
+  width: 100%;
+}
+
+.contain {
+  border: solid black;
+}
